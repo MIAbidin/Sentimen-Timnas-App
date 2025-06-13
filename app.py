@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 def load_pipeline(model_path):
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     model = AutoModelForSequenceClassification.from_pretrained(model_path)
-    return pipeline("sentiment-analysis", model=model, tokenizer=tokenizer, return_all_scores=True)
+    return pipeline("sentiment-analysis", model=model, tokenizer=tokenizer, top_k=None)
 
 # Path model
 model_paths = {
