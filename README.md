@@ -1,4 +1,4 @@
-# 🇮🇩 Sentimen Timnas App
+# Sentimen Timnas App
 
 Aplikasi web untuk analisis sentimen terhadap komentar publik tentang Tim Nasional Sepak Bola Indonesia. Aplikasi ini dibangun dengan Streamlit dan menggunakan model deep learning berbasis Transformer.
 
