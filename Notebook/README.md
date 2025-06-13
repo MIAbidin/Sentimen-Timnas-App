@@ -138,6 +138,8 @@ model.save_pretrained('/content/drive/MyDrive/Model-Sentimen-Timnas')
 L200210021 – Universitas Muhammadiyah Surakarta  
 📝 Skripsi: *Analisis Sentimen terhadap Timnas Indonesia di Piala Asia 2023 dengan Model Transformer Berbahasa Indonesia*
 
+📄 Jurnal Ilmiah: *[akan tersedia di sini](#)* *(coming soon)*
+
 ---
 
 > "Sepak bola bukan hanya permainan — ia adalah suara rakyat. Analisis sentimen membantu kita mendengarkannya." ⚽🇮🇩
