@@ -41,4 +41,4 @@ Model-model telah dilatih ulang (fine-tuned) untuk tugas klasifikasi sentimen da
 
 ## 📄 Dokumentasi Lengkap
 
-Silakan buka file [Notebook/me.md](.Notebook/me.md) untuk melihat dokumentasi lengkap proyek ini, termasuk deskripsi, hasil eksperimen, dan panduan penggunaan Google Colab.
+Silakan buka file [Notebook/README.md](.Notebook/README.md) untuk melihat dokumentasi lengkap proyek ini, termasuk deskripsi, hasil eksperimen, dan panduan penggunaan Google Colab.
